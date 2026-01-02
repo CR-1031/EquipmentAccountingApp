@@ -1,0 +1,66 @@
+using BLL.Services;
+using Xunit;
+using System;
+
+namespace BLL.UnitTests.Services
+{
+    public class LicenseServiceTests
+    {
+        [Fact]
+        public void CheckLicenseAvailability_EnoughLicenses_ReturnsTrue()
+        {
+            var service = new LicenseService();
+            int requiredSeats = 5;
+            int availableSeats = 10;
+
+            bool result = service.CheckLicenseAvailability(requiredSeats, availableSeats);
+
+            Assert.True(result);
+        }
+
+        [Fact]
+        public void CheckLicenseAvailability_NotEnoughLicenses_ReturnsFalse()
+        {
+            var service = new LicenseService();
+            int requiredSeats = 10;
+            int availableSeats = 5;
+
+            bool result = service.CheckLicenseAvailability(requiredSeats, availableSeats);
+
+            Assert.False(result);
+        }
+
+        [Fact]
+        public void CalculateExpiryStatus_Expired_ReturnsCorrectStatus()
+        {
+            var service = new LicenseService();
+            var expiryDate = DateTime.Now.AddDays(-1); // Прошла
+
+            var status = service.CalculateExpiryStatus(expiryDate);
+
+            Assert.Equal("Просрочена", status);
+        }
+
+        [Fact]
+        public void CalculateExpiryStatus_ExpiresSoon_ReturnsWarning()
+        {
+            var service = new LicenseService();
+            var expiryDate = DateTime.Now.AddDays(10); // Скоро истекает
+
+            var status = service.CalculateExpiryStatus(expiryDate);
+
+            Assert.Equal("Скоро истекает", status);
+        }
+
+        [Fact]
+        public void CalculateExpiryStatus_Valid_ReturnsOk()
+        {
+            var service = new LicenseService();
+            var expiryDate = DateTime.Now.AddDays(100); // Далеко
+
+            var status = service.CalculateExpiryStatus(expiryDate);
+
+            Assert.Equal("Действительна", status);
+        }
+    }
+}

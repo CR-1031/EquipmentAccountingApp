@@ -1,0 +1,85 @@
+using BLL.Services;
+using DAL;
+using System;
+using Xunit;
+using Moq;
+
+namespace BLL.UnitTests.Services
+{
+    public class EquipmentServiceTests
+    {
+        private readonly EquipmentService _service;
+        private readonly Mock<IDatabaseHelper> _dbMock;
+
+        public EquipmentServiceTests()
+        {
+            _dbMock = new Mock<IDatabaseHelper>();
+            _service = new EquipmentService(_dbMock.Object);
+        }
+
+        [Fact]
+        public void ValidateEquipment_ValidData_ReturnsTrue()
+        {
+            // Arrange
+            var equipment = new EquipmentDto
+            {
+                InventoryNumber = "INV-001",
+                Name = "Ноутбук",
+                PurchaseDate = DateTime.Now.AddDays(-30),
+                Price = 50000
+            };
+
+            var result = _service.ValidateEquipment(equipment);
+
+            Assert.True(result.IsValid);
+            Assert.Empty(result.Errors);
+        }
+
+        [Fact]
+        public void ValidateEquipment_EmptyInventoryNumber_ReturnsFalse()
+        {
+            var equipment = new EquipmentDto
+            {
+                InventoryNumber = "",
+                Name = "Ноутбук"
+            };
+
+            var result = _service.ValidateEquipment(equipment);
+
+            Assert.False(result.IsValid);
+            Assert.Contains("Инвентарный номер обязателен", result.Errors);
+        }
+
+        [Fact]
+        public void ValidateEquipment_FuturePurchaseDate_ReturnsFalse()
+        {
+            var equipment = new EquipmentDto
+            {
+                InventoryNumber = "INV-001",
+                Name = "Ноутбук",
+                PurchaseDate = DateTime.Now.AddDays(1)
+            };
+
+            var result = _service.ValidateEquipment(equipment);
+
+            Assert.False(result.IsValid);
+            Assert.Contains("Дата покупки не может быть в будущем", result.Errors);
+        }
+
+        [Fact]
+        public void ValidateEquipment_NegativePrice_ReturnsFalse()
+        {
+            var equipment = new EquipmentDto
+            {
+                InventoryNumber = "INV-001",
+                Name = "Ноутбук",
+                Price = -1000
+            };
+
+            var result = _service.ValidateEquipment(equipment);
+
+            Assert.False(result.IsValid);
+            Assert.Contains("Стоимость не может быть отрицательной", result.Errors);
+        }
+    }
+}

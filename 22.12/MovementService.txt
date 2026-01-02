@@ -1,0 +1,62 @@
+using BLL.Services;
+using Xunit;
+using System;
+
+namespace BLL.UnitTests.Services
+{
+    public class MovementServiceTests
+    {
+        [Fact]
+        public void CreateMovement_ValidData_Success()
+        {
+            var service = new MovementService();
+            var movement = new MovementDto
+            {
+                EquipmentId = 1,
+                PreviousEmployeeId = 2,
+                NewEmployeeId = 3,
+                MoveDate = DateTime.Now,
+                Reason = "Перевод в другой отдел"
+            };
+
+            var exception = Record.Exception(() => service.CreateMovement(movement));
+            
+            Assert.Null(exception);
+        }
+
+        [Fact]
+        public void CreateMovement_SameEmployee_ThrowsException()
+        {
+            // Arrange
+            var service = new MovementService();
+            var movement = new MovementDto
+            {
+                EquipmentId = 1,
+                PreviousEmployeeId = 2,
+                NewEmployeeId = 2, // Тот же сотрудник!
+                MoveDate = DateTime.Now,
+                Reason = "Тест"
+            };
+
+            Assert.Throws<InvalidOperationException>(() => 
+                service.CreateMovement(movement));
+        }
+
+        [Fact]
+        public void CreateMovement_EmptyReason_ThrowsException()
+        {
+            var service = new MovementService();
+            var movement = new MovementDto
+            {
+                EquipmentId = 1,
+                PreviousEmployeeId = 2,
+                NewEmployeeId = 3,
+                MoveDate = DateTime.Now,
+                Reason = "" // Пустая причина!
+            };
+
+            Assert.Throws<ArgumentException>(() => 
+                service.CreateMovement(movement));
+        }
+    }
+}
