@@ -1,0 +1,82 @@
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\EquipmentAccounting_project\EquipmentAccounting_project\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (26)\EquipmentAccounting_project\EquipmentAccounting_project\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка (26)\EquipmentAccounting_project\EquipmentAccounting_project\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\EquipmentAccounting_project\EquipmentAccounting_project\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка (26)\EquipmentAccounting_project\EquipmentAccounting_project\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\ref\DAL.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.deps.json
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.pdb
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\refint\DAL.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.pdb
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\ref\DAL.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.deps.json
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.pdb
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\refint\DAL.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.pdb
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\DAL\obj\Debug\net8.0\ref\DAL.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.deps.json
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.pdb
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\DAL\obj\Debug\net8.0\refint\DAL.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.pdb
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\DAL\obj\Debug\net8.0\ref\DAL.dll

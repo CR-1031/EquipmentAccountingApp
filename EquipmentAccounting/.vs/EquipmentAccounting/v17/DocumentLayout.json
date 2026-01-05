@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3F3DB3-0C9D-4C7D-A64A-9EAE2D5E6F01}|DAL\\DAL.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\dal\\dladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3F3DB3-0C9D-4C7D-A64A-9EAE2D5E6F01}|DAL\\DAL.csproj|solutionrelative:dal\\dladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BBD7DD-2C46-4A1B-95A2-9AC2CDB9C8C2}|BLL\\BLL.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\bll\\serv\\reportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BBD7DD-2C46-4A1B-95A2-9AC2CDB9C8C2}|BLL\\BLL.csproj|solutionrelative:bll\\serv\\reportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\forms\\edit\\simplenameeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\edit\\simplenameeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\forms\\edit\\licenseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\edit\\licenseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\forms\\edit\\equipmenteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\edit\\equipmenteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\forms\\edit\\employeeeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\edit\\employeeeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\winformsui\\forms\\edit\\employeeeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\edit\\employeeeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\forms\\edit\\departmenteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\edit\\departmenteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\forms\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\forms\\movementsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\movementsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\forms\\licensesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\licensesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\forms\\installedsoftwareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\installedsoftwareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\forms\\equipmenttypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\equipmenttypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\forms\\equipmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\equipmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\forms\\employeesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\employeesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|c:\\users\\slsll\\onedrive\\desktop\\equipmentaccounting\\winformsui\\forms\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4C2C7B-85B8-4F16-AE03-2E15DBF6E2A4}|WinFormsUI\\WinFormsUI.csproj|solutionrelative:winformsui\\forms\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsService.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\BLL\\Serv\\ReportsService.cs",
+              "RelativeDocumentMoniker": "BLL\\Serv\\ReportsService.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\BLL\\Serv\\ReportsService.cs",
+              "RelativeToolTip": "BLL\\Serv\\ReportsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:11:36.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DLADbContext.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\DAL\\DLADbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DLADbContext.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\DAL\\DLADbContext.cs",
+              "RelativeToolTip": "DAL\\DLADbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:51:18.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleNameEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\Edit\\SimpleNameEditForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\Edit\\SimpleNameEditForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\Edit\\SimpleNameEditForm.cs",
+              "RelativeToolTip": "WinFormsUI\\Forms\\Edit\\SimpleNameEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:50:50.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LicenseEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\Edit\\LicenseEditForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\Edit\\LicenseEditForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\Edit\\LicenseEditForm.cs",
+              "RelativeToolTip": "WinFormsUI\\Forms\\Edit\\LicenseEditForm.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:50:45.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EquipmentEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\Edit\\EquipmentEditForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\Edit\\EquipmentEditForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\Edit\\EquipmentEditForm.cs",
+              "RelativeToolTip": "WinFormsUI\\Forms\\Edit\\EquipmentEditForm.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:50:37.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\Edit\\EmployeeEditForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\Edit\\EmployeeEditForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\Edit\\EmployeeEditForm.cs",
+              "RelativeToolTip": "WinFormsUI\\Forms\\Edit\\EmployeeEditForm.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:50:28.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\Edit\\EmployeeEditForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\Edit\\EmployeeEditForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\Edit\\EmployeeEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsUI\\Forms\\Edit\\EmployeeEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:02:38.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\Edit\\DepartmentEditForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\Edit\\DepartmentEditForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\Edit\\DepartmentEditForm.cs",
+              "RelativeToolTip": "WinFormsUI\\Forms\\Edit\\DepartmentEditForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:50:15.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\MainForm.cs",
+              "RelativeToolTip": "WinFormsUI\\MainForm.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:47:25.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\ReportsForm.cs",
+              "RelativeToolTip": "WinFormsUI\\Forms\\ReportsForm.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:47:19.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovementsForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\MovementsForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\MovementsForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\MovementsForm.cs",
+              "RelativeToolTip": "WinFormsUI\\Forms\\MovementsForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:47:12.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LicensesForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\LicensesForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\LicensesForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\LicensesForm.cs",
+              "RelativeToolTip": "WinFormsUI\\Forms\\LicensesForm.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:47:05.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InstalledSoftwareForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\InstalledSoftwareForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\InstalledSoftwareForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\InstalledSoftwareForm.cs",
+              "RelativeToolTip": "WinFormsUI\\Forms\\InstalledSoftwareForm.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:46:53.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EquipmentTypesForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\EquipmentTypesForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\EquipmentTypesForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\EquipmentTypesForm.cs",
+              "RelativeToolTip": "WinFormsUI\\Forms\\EquipmentTypesForm.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:46:46.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EquipmentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\EquipmentsForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\EquipmentsForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\EquipmentsForm.cs",
+              "RelativeToolTip": "WinFormsUI\\Forms\\EquipmentsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:46:33.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeesForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\EmployeesForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\EmployeesForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\EmployeesForm.cs",
+              "RelativeToolTip": "WinFormsUI\\Forms\\EmployeesForm.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:46:27.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\DepartmentsForm.cs",
+              "RelativeDocumentMoniker": "WinFormsUI\\Forms\\DepartmentsForm.cs",
+              "ToolTip": "C:\\Users\\slsll\\OneDrive\\Desktop\\EquipmentAccounting\\WinFormsUI\\Forms\\DepartmentsForm.cs",
+              "RelativeToolTip": "WinFormsUI\\Forms\\DepartmentsForm.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:46:22.701Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\ref\BLL.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.deps.json
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.pdb
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\DAL.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\DAL.pdb
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\refint\BLL.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.pdb
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\ref\BLL.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.deps.json
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.pdb
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\DAL.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\bin\Debug\net8.0\DAL.pdb
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\refint\BLL.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.pdb
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\BLL\obj\Debug\net8.0\ref\BLL.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.deps.json
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.pdb
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\bin\Debug\net8.0\DAL.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\bin\Debug\net8.0\DAL.pdb
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\obj\Debug\net8.0\refint\BLL.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.pdb
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\BLL\obj\Debug\net8.0\ref\BLL.dll

@@ -1,0 +1,506 @@
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.DepartmentsForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.DepartmentEditForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EmployeeEditForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EquipmentEditForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.LicenseEditForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.SimpleNameEditForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EmployeesForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentsForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentTypesForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.InstalledSoftwareForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.LicensesForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.MovementsForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.ReportsForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.MainForm.resources
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка (2)\EquipmentAccounting_project\EquipmentAccounting_project\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.exe
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.deps.json
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.pdb
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.DepartmentsForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.DepartmentEditForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EmployeeEditForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EquipmentEditForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.LicenseEditForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.SimpleNameEditForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EmployeesForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentsForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentTypesForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.InstalledSoftwareForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.LicensesForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.MovementsForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.ReportsForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.MainForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.Up2Date
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\refint\WinFormsUI.dll
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.pdb
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.genruntimeconfig.cache
+C:\Users\User\Desktop\Новая папка (26)\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\ref\WinFormsUI.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.exe
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.deps.json
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.pdb
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.DepartmentsForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.DepartmentEditForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EmployeeEditForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EquipmentEditForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.LicenseEditForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.SimpleNameEditForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EmployeesForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentsForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentTypesForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.InstalledSoftwareForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.LicensesForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.MovementsForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.ReportsForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.MainForm.resources
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.Up2Date
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\refint\WinFormsUI.dll
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.pdb
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.genruntimeconfig.cache
+C:\Users\User\Desktop\Новая папка (26)\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\ref\WinFormsUI.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.exe
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.deps.json
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.runtimeconfig.json
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.pdb
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\BLL.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\DAL.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\DAL.pdb
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\BLL.pdb
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.AssemblyReference.cache
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.DepartmentsForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.DepartmentEditForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EmployeeEditForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EquipmentEditForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.LicenseEditForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.SimpleNameEditForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EmployeesForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentsForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentTypesForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.InstalledSoftwareForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.LicensesForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.MovementsForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.ReportsForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.MainForm.resources
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.GenerateResource.cache
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfoInputs.cache
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfo.cs
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.CoreCompileInputs.cache
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.Up2Date
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\refint\WinFormsUI.dll
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.pdb
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.genruntimeconfig.cache
+E:\Проект Слесарев\Проект\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\ref\WinFormsUI.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.exe
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.deps.json
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.runtimeconfig.json
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.pdb
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Azure.Core.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\BLL.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\DAL.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\DAL.pdb
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\BLL.pdb
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.AssemblyReference.cache
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.DepartmentsForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.DepartmentEditForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EmployeeEditForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EquipmentEditForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.LicenseEditForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.SimpleNameEditForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EmployeesForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentsForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentTypesForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.InstalledSoftwareForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.LicensesForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.MovementsForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.ReportsForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.MainForm.resources
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.GenerateResource.cache
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.GeneratedMSBuildEditorConfig.editorconfig
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfoInputs.cache
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfo.cs
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.CoreCompileInputs.cache
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.Up2Date
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\refint\WinFormsUI.dll
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.pdb
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.genruntimeconfig.cache
+X:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Слесарев\Слесарев Даниил\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\ref\WinFormsUI.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.exe
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.deps.json
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.runtimeconfig.json
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.pdb
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Azure.Core.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\BLL.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\DAL.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\DAL.pdb
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\BLL.pdb
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.AssemblyReference.cache
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.DepartmentsForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.DepartmentEditForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EmployeeEditForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EquipmentEditForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.LicenseEditForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.SimpleNameEditForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EmployeesForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentsForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentTypesForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.InstalledSoftwareForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.LicensesForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.MovementsForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.ReportsForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.MainForm.resources
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.GenerateResource.cache
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.GeneratedMSBuildEditorConfig.editorconfig
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfoInputs.cache
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfo.cs
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.CoreCompileInputs.cache
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.Up2Date
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\refint\WinFormsUI.dll
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.pdb
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.genruntimeconfig.cache
+Y:\College\РПО-23-2\!Преподаватели\Пузиков\!Практика\Labukas\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\ref\WinFormsUI.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.exe
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.deps.json
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.runtimeconfig.json
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\WinFormsUI.pdb
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.AssemblyReference.cache
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.DepartmentsForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.DepartmentEditForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EmployeeEditForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.EquipmentEditForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.LicenseEditForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.Edit.SimpleNameEditForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EmployeesForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentsForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.EquipmentTypesForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.InstalledSoftwareForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.LicensesForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.MovementsForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.Forms.ReportsForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.MainForm.resources
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.GenerateResource.cache
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfoInputs.cache
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.AssemblyInfo.cs
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.csproj.Up2Date
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\refint\WinFormsUI.dll
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.pdb
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\WinFormsUI.genruntimeconfig.cache
+C:\Users\slsll\OneDrive\Desktop\EquipmentAccounting\WinFormsUI\obj\Debug\net8.0-windows\ref\WinFormsUI.dll
